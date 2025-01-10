@@ -1,7 +1,6 @@
 <h1 align="center">Opa 👋, Sou o Felipe</h1>
 <h3 align="center">Atualmente estudando para me tornar desenvolvedor, atuo a mais de 10 anos na área de técnologia e estou em transição de carreira.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fe-andrade" alt="fe-andrade" /></a> </p>
 
 - 🔭 Trabalho atualmente como CSM no ERP SIGANET **https://www.siganet.com.br/site/**
 
